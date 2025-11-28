@@ -3,9 +3,9 @@
   <img src="https://i.imgur.com/r1Z8wVR.png" width="100%" alt="Leandro Dev Banner"/>
 </p>
 
-<h1 align="center">📌 Olá! Eu sou o <strong>Leandro</strong> — <span style="color:#4e8ce9">Desenvolvedor Python</span></h1>
+<h1 align="center">🚀 Bem-vindo ao meu GitHub! Sou o <strong>Leandro</strong> — Desenvolvedor Python</h1>
 
-<h3 align="center">🚀 Backend | Python | Sistemas embarcados | Automação | TCP/IP</h3>
+<h3 align="center">Backend • Python • C • TCP/IP • Automação • Sistemas embarcados</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lpzin05&color=blue&style=flat-square" alt="Profile views"/>
@@ -15,50 +15,43 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Python focado em Backend, sistemas embarcados e comunicação em rede (TCP/IP)**.  
-Tenho experiência prática com:
+Sou **Desenvolvedor Python** com foco em **backend, automação, sistemas embarcados e comunicação em rede (TCP/IP)**.  
+Tenho experiência prática construindo sistemas completos, integrando diferentes linguagens (Python + C), usando sockets, automação e interfaces gráficas modernas (CustomTkinter).
 
-- Programação Python (CustomTkinter, automação, sistemas desktop)  
-- Desenvolvimento em **C (Winsock)**  
-- Arquitetura **Cliente/Servidor**  
-- Automação, JSON, manipulação de arquivos e APIs  
-- Projetos acadêmicos completos e organizados  
-- Criação de sistemas complexos do zero  
-
-Atualmente, estou **buscando minha primeira oportunidade na área de desenvolvimento** — especialmente em Backend ou Automação.
+🧭 Buscando minha primeira oportunidade na área de desenvolvimento.  
+🎯 Objetivo: Atuar como **Dev Backend / Automação / Infra / Sistemas**.  
+📍 São Paulo — SP.
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px"/>
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🏆 Projetos de Destaque
 
-### 🔹 **Sistema Acadêmico Integrado — Python + C + TCP**  
-👉 Repositório:  
-https://github.com/Lpzin05/sistema-academico-integrado  
+### 🔹 Sistema Acadêmico Integrado — Python + C + TCP
+Repositório:  
+👉 https://github.com/Lpzin05/sistema-academico-integrado
 
 **Tecnologias:** Python (CustomTkinter), C (Winsock), TCP/IP, JSON  
-
-**Destaques do Projeto:**  
-- Cliente em Python com GUI moderna  
-- Servidor TCP multi-cliente rodando em threads  
-- Cliente em C enviando dados para o servidor  
-- Cadastro, busca, ordenação e relatórios em PDF  
+**Destaques:**  
+- Sistema completo com GUI  
+- Servidor TCP Multi-clientes  
+- Cliente em C enviando dados via socket  
+- CRUD de alunos, turmas, aulas, atividades  
 - Upload de arquivos  
-- Assistente IA interno estilo URA  
-- Arquitetura organizada em múltiplos módulos  
+- Geração de relatórios PDF  
+- Assistente IA interno (URA)
 
 ---
 
@@ -74,32 +67,21 @@ https://github.com/Lpzin05/sistema-academico-integrado
 ## 📦 Repositórios em Destaque
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lpzin05&repo=sistema-academico-integrado&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lpzin05&repo=sistema-academico-integrado&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Objetivos Atuais
+## 📫 Contato
 
-- Conseguir minha primeira oportunidade em **Desenvolvimento Backend ou Automação**
-- Melhorar meu conhecimento em Python avançado, SQL e APIs  
-- Desenvolver novos projetos profissionais para o portfólio  
-- Aprofundar em estruturas de dados e padrões de projeto  
-
----
-
-## 📬 Como falar comigo
-
-📧 **Email profissional:**  
-➡️ leandropp2005@outlook.com
+📧 **Email:**  
+➡️ coloque seu email profissional aqui
 
 🔗 **LinkedIn:**  
-➡️ https://www.linkedin.com/in/leandro-pedroza-pereira-b788a7305
-
-💼 **Portfólio (em breve):**  
-➡️ leandro.dev
+➡️ coloque seu link do LinkedIn aqui
 
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
-<p align="center">Se gostar dos meus projetos, deixe um ⭐ — isso me ajuda muito! 🚀</p>
+
+<p align="center">Se gostar dos projetos, deixe um ⭐ — isso me ajuda muito 🚀</p>
