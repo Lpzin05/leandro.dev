@@ -1,87 +1,84 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/r1Z8wVR.png" width="100%" alt="Leandro Dev Banner"/>
-</p>
+<h1 align="center">📌 Olá! Eu sou o <strong>Leandro</strong> — <span style="color:#4e8ce9">Desenvolvedor Python</span></h1>
 
-<h1 align="center">🚀 Bem-vindo ao meu GitHub! Sou o <strong>Leandro</strong> — Desenvolvedor Python</h1>
-
-<h3 align="center">Backend • Python • C • TCP/IP • Automação • Sistemas embarcados</h3>
+<h3 align="center">🚀 Backend | Python | Sistemas embarcados | Automação | TCP/IP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lpzin05&color=blue&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Python** com foco em **backend, automação, sistemas embarcados e comunicação em rede (TCP/IP)**.  
-Tenho experiência prática construindo sistemas completos, integrando diferentes linguagens (Python + C), usando sockets, automação e interfaces gráficas modernas (CustomTkinter).
+Sou **Desenvolvedor Python focado em Backend, sistemas embarcados e comunicação em rede (TCP/IP)**.  
+Tenho experiência com:
 
-🧭 Buscando minha primeira oportunidade na área de desenvolvimento.  
-🎯 Objetivo: Atuar como **Dev Backend / Automação / Infra / Sistemas**.  
-📍 São Paulo — SP.
+- Programação Python (CustomTkinter, automação, sistemas desktop)  
+- Desenvolvimento em **C (Winsock)**  
+- Arquitetura **Cliente/Servidor**  
+- Trabalhos acadêmicos de alto nível  
+- Organização modular de projetos  
+- JSON, automação de arquivos e APIs  
+- Criação de sistemas completos do zero  
+
+Atualmente, estou **buscando minha primeira oportunidade na área de desenvolvimento** e expandindo meus conhecimentos para atuar profissionalmente como Dev Backend ou Automação.
 
 ---
 
 ## 🧰 Tecnologias & Ferramentas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px"/>
-</p>
+**Linguagens:**  
+🐍 Python • 💠 C • SQL  
+
+**Ferramentas:**  
+Git • GitHub • Tkinter/CustomTkinter • Socket/TCP • JSON • VSCode  
+
+**Interesses:**  
+API, Backend, microsserviços, automação, infraestrutura, sistemas embarcados.
 
 ---
 
-## 🏆 Projetos de Destaque
+## 🚀 Projetos em Destaque
 
-### 🔹 Sistema Acadêmico Integrado — Python + C + TCP
+### 🔹 Sistema Acadêmico Integrado — Python + C + TCP  
 Repositório:  
 👉 https://github.com/Lpzin05/sistema-academico-integrado
 
-**Tecnologias:** Python (CustomTkinter), C (Winsock), TCP/IP, JSON  
-**Destaques:**  
-- Sistema completo com GUI  
-- Servidor TCP Multi-clientes  
-- Cliente em C enviando dados via socket  
-- CRUD de alunos, turmas, aulas, atividades  
-- Upload de arquivos  
-- Geração de relatórios PDF  
-- Assistente IA interno (URA)
+Funcionalidades:
+- Cliente em Python com GUI (CustomTkinter)
+- Servidor TCP multi-cliente em Python
+- Cliente em C (Winsock) enviando dados via socket
+- CRUD de alunos, turmas, aulas e atividades
+- Geração de relatórios PDF
+- Upload de arquivos
+- Assistente IA interno estilo URA
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Objetivos Atuais
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lpzin05&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lpzin05&layout=compact&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
-## 📦 Repositórios em Destaque
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lpzin05&repo=sistema-academico-integrado&theme=tokyonight" />
-</p>
+- Conseguir minha primeira oportunidade em **Desenvolvimento Backend ou Automação**
+- Aprimorar conhecimento em Python avançado, SQL e APIs
+- Criar novos projetos profissionais para o portfólio
+- Estudar estruturas de dados e padrões de projeto
 
 ---
 
-## 📫 Contato
+## 📬 Como falar comigo
 
-📧 **Email:**  
-➡️ coloque seu email profissional aqui
+📧 **Email profissional:**  
+➡️ *adicione seu email profissional aqui*
 
 🔗 **LinkedIn:**  
-➡️ coloque seu link do LinkedIn aqui
+➡️ *adicione seu link aqui*
+
+💼 **Portfólio (em breve)**  
+➡️ leandro.dev
 
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
-
-<p align="center">Se gostar dos projetos, deixe um ⭐ — isso me ajuda muito 🚀</p>
+<p align="center">Se gostar dos meus projetos, fique à vontade para dar um ⭐ nos repositórios 😊</p>
