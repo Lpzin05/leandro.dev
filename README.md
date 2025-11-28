@@ -70,10 +70,10 @@ Funcionalidades:
 ## 📬 Como falar comigo
 
 📧 **Email profissional:**  
-➡️ *adicione seu email profissional aqui*
+➡️ *leandropp2005@outlook.com*
 
 🔗 **LinkedIn:**  
-➡️ *adicione seu link aqui*
+➡️ *https://www.linkedin.com/in/leandro-pedroza-pereira-b788a7305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app*
 
 💼 **Portfólio (em breve)**  
 ➡️ leandro.dev
